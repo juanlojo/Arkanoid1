@@ -2,7 +2,6 @@
 #include <fstream>
 #include <cstdio>
 #include <Windows.h>
-#include <iostream>
 
 HANDLE hStdin;
 DWORD cNumRead, FdwMode, FdwOldMode;
